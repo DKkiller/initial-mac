@@ -2,27 +2,8 @@
 # vars file for homebrew
 cask_list:
   - iterm2
-  - lastpass
   - clipy
   - shiftit
-  - qqmusic
-  - qq
-  - visual-studio-code
-  - zoom
-  - intellij-idea
-  - sogouinput
-  - postman
-  - dbeaver-community
-  - ticktick
-  - wechat
-  - wechatwork
-  - ccleaner
-  - figma
-  - slack
-  - typora
-  - google-chrome
-  - virtualbox
-  - vagrant
 
 cli_list:
   - warrensbox/tap/tfswitch
