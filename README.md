@@ -15,17 +15,8 @@
 cask：
 
 - iterm2
-- lastpass
 - clipy(剪切板工具 https://github.com/Clipy/Clipy)
 - shiftit(窗口管理工具 https://github.com/fikovnik/ShiftIt)
-- qqmusic
-- visual-studio-code
-- zoom
-- docker
-- intellij-idea
-- sogouinput
-- postman
-- dbeaver-community
 
 dbeaver-community 需要配置 java 环境：
 
